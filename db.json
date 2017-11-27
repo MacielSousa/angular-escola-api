@@ -73,24 +73,75 @@
     {
       "id": 1,
       "nome": "admin",
-      "dtNascimento": "21/05/1993"
+      "dtNascimento": "21/05/1993",
+      "login": "adm@gmail.com",
+      "senha": "admin"
     },
     {
       "id": 2,
       "nome": "Keila",
-      "dtNascimento": "01/09/1995"
-    }
-  ],
-  "usuarios": [
-    {
-      "login": "adm@gmail.com",
-      "senha": "admin",
-      "pessoaId": 1
+      "dtNascimento": "01/09/2000",
+      "login": "keila@gmail.com",
+      "senha": "1234"
     },
     {
-      "login": "keila@gmail.com",
-      "senha": "1234",
+      "id": 3,
+      "nome": "Kaio",
+      "dtNascimento": "04/10/2000",
+      "login": "kaio@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": 4,
+      "nome": "Maria",
+      "dtNascimento": "03/11/1978",
+      "login": "maria@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": 5,
+      "nome": "João",
+      "dtNascimento": "03/11/1978",
+      "login": "joao@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": 6,
+      "nome": "Chico",
+      "dtNascimento": "03/11/1970",
+      "login": "chico@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": 7,
+      "nome": "Chica",
+      "dtNascimento": "03/11/1970",
+      "login": "chica@gmail.com",
+      "senha": "1234"
+    }
+  ],
+  "professores": [
+    {
       "pessoaId": 2
+    },
+    {
+      "pessoaId": 3
+    }
+  ],
+  "alunos": [
+    {
+      "pessoaId": 4
+    },
+    {
+      "pessoaId": 5
+    }
+  ],
+  "funcionarios": [
+    {
+      "pessoaId": 6
+    },
+    {
+      "pessoaId": 7
     }
   ]
 }
