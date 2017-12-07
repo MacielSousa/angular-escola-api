@@ -162,50 +162,55 @@
   "cargos":[
     {
       "id": 1,
-      "nome:": "Cargo 1",
+      "nome": "Cargo 1",
       "descricao": "Esse é o Cargo 1"
     },
     {
       "id": 2,
-      "nome:": "Cargo 2",
+      "nome": "Cargo 2",
       "descricao": "Esse é o Cargo 2"
     },
     {
       "id": 3,
-      "nome:": "Cargo 3",
+      "nome": "Cargo 3",
       "descricao": "Esse é o Cargo 3"
     },
     {
       "id": 4,
-      "nome:": "Cargo 4",
+      "nome": "Cargo 4",
       "descricao": "Esse é o Cargo 4"
+    },
+    {
+      "id": 5,
+      "nome": "Cargo 5",
+      "descricao": "Esse é o Cargo 5"
     }
   ],
 
   "funcoes":[
     {
       "id": 1,
-      "nome:": "Função 1",
+      "nome": "Função 1",
       "descricao": "Essa é a Função 1"
     },
     {
       "id": 2,
-      "nome:": "Função 2",
+      "nome": "Função 2",
       "descricao": "Essa é a Função 2"
     },
     {
       "id": 3,
-      "nome:": "Função 3",
+      "nome": "Função 3",
       "descricao": "Essa é a Função 4"
     },
     {
       "id": 4,
-      "nome:": "Função 4",
+      "nome": "Função 4",
       "descricao": "Essa é a Função 4"
     },
     {
       "id": 5,
-      "nome:": "Função 5",
+      "nome": "Função 5",
       "descricao": "Essa é a Função 5"
     }
   ],
