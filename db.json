@@ -132,19 +132,12 @@
   ],
   "docentes": [
     {
-      "pessoaId": 2
+      "pessoaId": 2,
+      "cargoId": 4
     },
     {
-      "pessoaId": 3
-    }
-  ],
-
-  "alunos": [
-    {
-      "pessoaId": 4
-    },
-    {
-      "pessoaId": 5
+      "pessoaId": 3,
+      "cargoId": 2
     }
   ],
   "administrativos": [
